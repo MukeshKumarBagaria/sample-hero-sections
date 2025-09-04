@@ -95,7 +95,7 @@ export default function Home4() {
                 </p>
                 <p className="text-lg text-slate-300 leading-relaxed max-w-2xl">
                   Transform your business with cutting-edge strategies across Amazon, Walmart, Myntra, Ajio, and
-                  Flipkart. We don't just grow businesses—we revolutionize them.
+                  Flipkart. We don&apos;t just grow businesses—we revolutionize them.
                 </p>
               </div>
 
